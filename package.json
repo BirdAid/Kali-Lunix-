@@ -1,0 +1,21 @@
+{
+    "name": "lunix-kali-blue",
+    "displayName": "Lunix Kali Blue",
+    "description": "Enspired by Lunix Kali",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lunix Kali Blue",
+                "uiTheme": "vs",
+                "path": "./themes/Lunix Kali Blue-color-theme.json"
+            }
+        ]
+    }
+}
