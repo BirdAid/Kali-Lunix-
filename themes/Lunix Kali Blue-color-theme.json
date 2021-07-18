@@ -26,6 +26,7 @@
 		"menubar.selectionBackground"			: "#05BDF0",
 		"menubar.selectionForeground"			: "#f865b0",
 		// "menubar.selectionBorder"				: "#ff0000",
+		
 		// ActivityBar
 		// "activityBar.activeBackground"			: "#ff0000",
 		"activityBar.activeBorder"				: "#EBFBFF",
@@ -38,17 +39,17 @@
 		// "activityBar.activeBackground"			: "#ff0000",
 		
 		// ActionColor
-		"toolbar.hoverBackground"				: "#ff0000",
+		"toolbar.hoverBackground"				: "#33d3ff",
 		// "toolbar.hoverOutline"					: "#223127",
-		"toolbar.activeBackground"				: "#ff0000",
+		"toolbar.activeBackground"				: "#2d3142",
 		
 		// ButtonControl
 		"button.background"						: "#00c0f5",
 		"button.foreground"						: "#ebfbff",
 		"button.border"							: "#70e0ff",
 		"button.hoverBackground"				: "#33d3ff",
-		"button.secondaryForeground"			: "#ff0000",
-		"button.secondaryBackground"			: "#ff0000",
+		"button.secondaryForeground"			: "#2d3142",
+		"button.secondaryBackground"			: "#09ff00",
 		"button.secondaryHoverBackground"		: "#223127",
 		"checkbox.background"					: "#00c0f5",
 		"checkbox.foreground"					: "#c2f3ff",
@@ -71,6 +72,46 @@
 		"inputOption.activeBorder"				: "#4c2e05",
 		"inputValidation.errorForeground"		: "#7a8450",
 
+		//ScrollControl
+		"scrollbar.shadow"						: "#05bdf09d",
+		"scrollbarSlider.activeBackground"		: "#33d3ff",
+		"scrollbarSlider.background"			: "#33d3ff",
+		"scrollbarSlider.hoverBackground"		: "#05bdf09d",
+
+		//Badge
+		"badge.foreground"						: "#ebfbff",
+		"badge.background"						: "#05bdf0",
+
+		//ProgressBar
+		"progressBar.background"				: "#85e4ff",
+		
+		//ListsAndTrees
+		"list.activeSelectionBackground"		: "#85e4ff",
+		"list.activeSelectionForeground"		: "#ebfbff",
+		"list.inactiveSelectionIconForeground"	: "#3d3b3c",
+		"list.dropBackground"					: "#323031",
+		"list.focusBackground"					: "#33d3ff",
+		"list.focusForeground"					: "#a77464",
+		"list.focusHighlightForeground"			: "#a27e8e",
+		"list.focusOutline"						: "#c2f3ff",
+		"list.highlightForeground"				: "#ffc857",
+		"list.hoverBackground"					: "#33d3ff",
+		"list.hoverForeground"					: "#c2f3ff",
+		"list.inactiveFocusBackground"			: "#ffc857",
+		"list.deemphasizedForeground"			: "#ff0000",
+		"list.inactiveSelectionForeground"		: "#c2f3ff",
+		"list.inactiveSelectionBackground"		: "#85e4ff",
+		"list.inactiveFocusOutline"				: "#70e0ff",
+		"list.invalidItemForeground"			: "#ff0000",
+		"list.errorForeground"					: "#ebfbff",
+		"list.warningForeground"				: "#70161e",
+		"listFilterWidget.background"			: "#fec601",
+		"listFilterWidget.outline"				: "#ea7317",
+		"listFilterWidget.noMatchesOutline"		: "#bc412b",
+		"list.filterMatchBackground"			: "#dc602e",
+		"list.filterMatchBorder"				: "#05a8aa",
+		"tree.indentGuidesStroke"				: "#33d3ff",
+		"tree.tableColumnsBorder"				: "#1a1b41",
 	},
 
 	"tokenColors": [
