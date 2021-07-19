@@ -15,6 +15,8 @@
 		"editor.background"						: "#05bdf0",
 		"editor.foreground"						: "#C2F3FF",
         "list.activeSelectionIconForeground"	: "#202222",	
+		
+		//SideBar
 		"sideBar.background"					: "#00C0F5",
 		"sideBar.foreground"					: "#EBFBFF",
 		"sideBar.border"						: "#33D3FF",
@@ -29,14 +31,17 @@
 		
 		// ActivityBar
 		// "activityBar.activeBackground"			: "#ff0000",
+		"activityBar.background"				: "#05BDF0",
+		"activityBar.dropBorder"				: "#bc412b",
 		"activityBar.activeBorder"				: "#EBFBFF",
 		"activityBar.foreground"				: "#C2F3FF",
-		"activityBar.background"				: "#05BDF0",
 		"activityBar.inactiveForeground"		: "#C2F3FF",
 		"activityBar.border"					: "#33D3FF",
 		"activityBarBadge.background"			: "#05BDF0",
 		"activityBarBadge.foreground"			: "#C2F3FF",
+		// "activityBar.activeBackground"			: "#bc412b",
 		// "activityBar.activeBackground"			: "#ff0000",
+		"activityBar.activeFocusBorder"			: "#ff0000",
 		
 		// ActionColor
 		"toolbar.hoverBackground"				: "#33d3ff",
@@ -112,6 +117,8 @@
 		"list.filterMatchBorder"				: "#05a8aa",
 		"tree.indentGuidesStroke"				: "#33d3ff",
 		"tree.tableColumnsBorder"				: "#1a1b41",
+
+		//ActivityBar
 	},
 
 	"tokenColors": [
